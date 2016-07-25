@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-07-22 19:04:32" Creator="Tanner" Comments="" ID="295a3db597fb2e14243d2dffa627d556">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-07-25 11:25:30" Creator="Tanner" Comments="" ID="fd5ff391bb161a55146521be1e9c0927">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -17,29 +17,13 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>mike_king_lib_labview_datagridview &gt;=1.0.5.25</Additional_External_Dependencies>
-      <Additional_External_Dependencies>national_instruments_lib_dcaf_table_api &gt;=1.0.0.7</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_amc &gt;=3.3.1.22</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_config_editor &gt;=2.1.1.106</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_cvt &gt;=3.3.0.13</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dataeng &gt;=2.1.3.153</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_standard_engine &gt;=2.2.0.56</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_ui_toolkit &gt;=1.0.0.115</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_dcafsample &gt;=2.1.0.104</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_execsys &gt;=2.1.3.43</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_fp_layout &gt;=1.1.1.40</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_keyed_array &gt;=2.0.0.11</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_rt_management &gt;=1.1.1.41</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_string &gt;=2.0.0.5</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_tag_bus &gt;=1.3.0.62</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbd_examples &gt;=1.0.0.40</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_tbm &gt;=2.1.1.39</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_tbd_stdeng &gt;=2.2.0.59</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbm_cvt &gt;=2.0.3.97</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbm_udp &gt;=2.0.2.36</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbm_uiref &gt;=2.0.2.2</Additional_External_Dependencies>
       <Additional_External_Dependencies>ni_lib_tbm_vario &gt;=2.0.2.38</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_timesource &gt;=2.1.0.27</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_progress_bar &gt;=1.0.0.14</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
