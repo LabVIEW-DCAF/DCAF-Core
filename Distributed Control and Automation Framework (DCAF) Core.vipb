@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-07-25 23:08:42" Creator="Tanner" Comments="" ID="9390490202f335bfa4ac9fbb93f20408">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-12-14 10:55:55" Creator="Tanner" Comments="" ID="48def10ec1cee4b44a935f006f6e3df2">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
     <Library_Version>1.0.0.1</Library_Version>
@@ -17,8 +17,8 @@
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_examples &gt;=1.0.0.43</Additional_External_Dependencies>
-      <Additional_External_Dependencies>ni_lib_dcaf_project_templates &gt;=2.1.0.107</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_examples &gt;=1.1.0.61</Additional_External_Dependencies>
+      <Additional_External_Dependencies>ni_lib_dcaf_project_templates &gt;=2.2.0.123</Additional_External_Dependencies>
     </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
