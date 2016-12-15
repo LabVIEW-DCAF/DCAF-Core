@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-12-15 11:03:59" Creator="Tanner" Comments="" ID="ba1ba6f4f7d3e5fbec7552ed97d615b2">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2016-12-15 11:54:50" Creator="Tanner" Comments="" ID="ecda34f10cd23bbfeb9a28b2fbc0a740">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
-    <Library_Version>1.0.0.1</Library_Version>
+    <Library_Version>1.1.0.1</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -35,7 +35,7 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes/>
+      <Release_Notes>DCAF 1.1 Release</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
