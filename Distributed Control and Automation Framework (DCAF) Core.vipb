@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-02-09 10:12:15" Creator="Tanner" Comments="" ID="bed9ecf7d82efd6d748afe1ee18479c3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-02-09 10:35:10" Creator="Tanner" Comments="" ID="119ea5ecde3631a3d584983032ef036a">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
     <Library_Version>1.1.0.1</Library_Version>
@@ -110,6 +110,9 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Autobuild.csv</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
