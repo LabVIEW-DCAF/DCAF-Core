@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-04-26 14:09:46" Creator="Tanner" Comments="" ID="8c1d59647475a2a6e9ac32749fb951f3">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-05-03 10:08:56" Creator="Tanner" Comments="" ID="717e12fc1bfa0733f1bb1c1261772e83">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
-    <Library_Version>1.2.0.2</Library_Version>
+    <Library_Version>1.2.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
