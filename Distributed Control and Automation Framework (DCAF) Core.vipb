@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-05-03 10:08:56" Creator="Tanner" Comments="" ID="717e12fc1bfa0733f1bb1c1261772e83">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-05-18 14:44:11" Creator="Tanner" Comments="" ID="d0c0508ef11d9e4bfbe5158857af93c4">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
     <Library_Version>1.2.0.3</Library_Version>
@@ -36,8 +36,29 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>DCAF 1.2 Release
---Version bump to LabVIEW 2014 or later (specific modules may require a later minimum version)</Release_Notes>
+      <Release_Notes>DCAF 1.2 highlights:
+--Focus on stability, fixing known issues
+--Updated source from LV 2013 to 2014
+--Improvements to automated build &amp; test
+--All changes go through pull requests with pre-submission build &amp; test
+--Automated integration testing with HW
+
+In addition, four new modules have been created since DCAF 1.1: 
+--Shared Memory Module
+--J1939 Module
+--FPGA Module
+--DDS Module. 
+These are also available through the NI Tools Network VIPM repository.
+
+A brief description of the development community statistics, and upgrade instructions are below.  Additional documentation for these features is in work and will be provided on the DCAF community (ni.com/dcaf).
+
+Development Community Statistics
+Full details and statistics can be found at https://github.com/LabVIEW-DCAF. Below is a summary of the updates since August 2016.
+Collaborators: 15+ have contributed to DCAF
+Bug Fixes: 93 closed GitHub issues with the ‘Bug’ label
+Enhancements: 31 closed GitHub issues with the ‘Enhancement’ label
+Repository Activity: Over 250 new commits
+</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
