@@ -1,6 +1,9 @@
 #!/usr/bin/env groovy
 //Leave the above line alone.  It identifies this as a groovy script.
 
+// TEMP: change pipeline library
+@Library('dcaf-scripts@fix-master-builds')
+
 //Modify the below parameters to match the values for this particular repo
 
 def utfPaths = []
