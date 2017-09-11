@@ -2,7 +2,7 @@
 //Leave the above line alone.  It identifies this as a groovy script.
 
 // TEMP: change pipeline library
-library identifier: 'dcaf-scripts', retriever: modernSCM(github(checkoutCredentialsId: 'SAME', id: 'ba0fa9a5-aaf7-4c95-9bbe-b088a0d9b35f', includes: 'fix-master-builds', repoOwner: 'LabVIEW-DCAF', repository: 'buildsystem', scanCredentialsId: 'DCAF-Build'))
+@Library 'dcaf-scripts@fix-master-build'
 
 //Modify the below parameters to match the values for this particular repo
 
