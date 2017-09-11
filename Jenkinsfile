@@ -2,7 +2,7 @@
 //Leave the above line alone.  It identifies this as a groovy script.
 
 // TEMP: change pipeline library
-library "dcaf-scripts@fix-master-build"
+library 'dcaf-scripts@fix-master-build'
 
 //Modify the below parameters to match the values for this particular repo
 
