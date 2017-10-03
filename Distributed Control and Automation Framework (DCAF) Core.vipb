@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-05-18 14:44:11" Creator="Tanner" Comments="" ID="d0c0508ef11d9e4bfbe5158857af93c4">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2016-07-22 10:28:32" Modified_Date="2017-10-03 13:44:03" Creator="Tanner" Comments="" ID="19c30137b65ce6c6dd1e7462d68fd048">
   <Library_General_Settings>
     <Package_File_Name>ni_frmwk_dcaf_core</Package_File_Name>
     <Library_Version>1.2.0.3</Library_Version>
@@ -36,29 +36,34 @@
       <Copyright/>
       <Packager>NI Systems Engineering</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>DCAF 1.2 highlights:
---Focus on stability, fixing known issues
---Updated source from LV 2013 to 2014
---Improvements to automated build &amp; test
---All changes go through pull requests with pre-submission build &amp; test
---Automated integration testing with HW
+      <Release_Notes>DCAF 1.2.2 has been released and is available for download and installation on the NI Tools Network VIPM repository.
 
-In addition, four new modules have been created since DCAF 1.1: 
---Shared Memory Module
---J1939 Module
---FPGA Module
---DDS Module. 
-These are also available through the NI Tools Network VIPM repository.
 
-A brief description of the development community statistics, and upgrade instructions are below.  Additional documentation for these features is in work and will be provided on the DCAF community (ni.com/dcaf).
+The release includes updates to the following packages:
 
-Development Community Statistics
-Full details and statistics can be found at https://github.com/LabVIEW-DCAF. Below is a summary of the updates since August 2016.
-Collaborators: 15+ have contributed to DCAF
-Bug Fixes: 93 closed GitHub issues with the ‘Bug’ label
-Enhancements: 31 closed GitHub issues with the ‘Enhancement’ label
-Repository Activity: Over 250 new commits
-</Release_Notes>
+DCAF Execution Engine Interface
+
+DCAF Modbus Module
+
+DCAF Module Interface
+
+DCAF Project Templates
+
+DCAF Scaling Framework
+
+DCAF Scan Engine Module
+
+DCAF Tag Editor
+
+DCAF Tag Select Module
+
+DCAF TDMS Logging Module
+
+ 
+
+DCAF 1.2.2 contains many bug fixes and some new features for DCAF. For a full list of changes see this page. (https://github.com/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+user%3ALabVIEW-DCAF+is%3Amerged+-repo%3ALabVIEW-DCAF%2Fbuildsystem+-repo%3ALabVIEW-DCAF%2FMotionModule+-repo%3ALabVIEW-DCAF%2FIntegrationTesting+-repo%3ALabVIEW-DCAF%2FDAQModule+-repo%3ALabVIEW-DCAF%2FOPC-UA+-repo%3ALabVIEW-DCAF%2FDocumentation+updated%3A2017-07-17..2017-09-25+)
+
+One highlight includes a contribution from community member knoxberry which adds additional filtering to the engine tags UI so you can filter tags with no writer channel or no reader channels. This will help you to find loose tags in your application.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
