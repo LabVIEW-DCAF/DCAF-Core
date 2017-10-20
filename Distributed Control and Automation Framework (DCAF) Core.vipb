@@ -51,7 +51,7 @@ DCAF Project Templates
 DCAF Examples
 
 
-DCAF 1.2.3 includes bug fixes and enhancements for DCAF. For a full list of changes, refer to this GetHub search:
+DCAF 1.2.3 includes bug fixes and enhancements for DCAF. For a full list of changes, refer to this GitHub search:
 https://github.com/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+user%3ALabVIEW-DCAF+is%3Amerged+-repo%3ALabVIEW-DCAF%2Fbuildsystem+-repo%3ALabVIEW-DCAF%2FMotionModule+-repo%3ALabVIEW-DCAF%2FIntegrationTesting+-repo%3ALabVIEW-DCAF%2FDAQModule+-repo%3ALabVIEW-DCAF%2FOPC-UA+-repo%3ALabVIEW-DCAF%2FDocumentation+updated%3A2017-09-22..2017-10-20+</Release_Notes>
     </Description>
     <Destinations>
