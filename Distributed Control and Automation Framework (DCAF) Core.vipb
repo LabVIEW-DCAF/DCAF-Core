@@ -36,12 +36,13 @@
       <Copyright/>
       <Packager>National Instruments</Packager>
       <URL>ni.com/dcaf</URL>
-      <Release_Notes>DCAF 1.2.3 is released and available for download and installation on the NI Tools Network VIPM repository.
+      <Release_Notes>DCAF 1.2.3 is released and available for download and installation on the NI LabVIEW Tools Network VIPM repository.
 
 
 The release includes updates to the following packages:
 
-DCAF Tag Editor
+
+DCAF Tag Editor
 
 DCAF Scan Engine Module
 
@@ -125,6 +126,9 @@ https://github.com/pulls?utf8=%E2%9C%93&amp;q=is%3Apr+is%3Aclosed+user%3ALabVIEW
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>Autobuild.csv</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
